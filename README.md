@@ -1,6 +1,6 @@
 # Welcome to Pantheon Digital's GitHub Profile!
 
-![Pantheon Digital](https://pantheondigitals.com/assets/images/logo.png)
+![Pantheon Digital](https://pantheondigitals.com/assets/images/logo.svg)
 
 At Pantheon Digital, we're dedicated to driving digital transformation and innovation. Our team is passionate about creating cutting-edge solutions that empower businesses and individuals alike.
 
