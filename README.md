@@ -12,8 +12,6 @@ Visit our website: [Pantheon Digital](https://pantheondigitals.com/)
 
 ## Our Projects
 
-(Here, you can list some of the open-source projects your company has worked on, with brief descriptions and links to the repositories. Replace the placeholders with actual data.)
-
 - **Project Name 1**: Description of Project 1. [View Project](#)
 - **Project Name 2**: Description of Project 2. [View Project](#)
 - **Project Name 3**: Description of Project 3. [View Project](#)
@@ -24,12 +22,12 @@ We'd love to hear from you! Whether you're interested in collaborating on a proj
 
 - Website: [https://pantheondigitals.com/](https://pantheondigitals.com/)
 - Email: [contact@pantheondigitals.com](mailto:contact@pantheondigitals.com)
-- LinkedIn: [Pantheon Digital LinkedIn](#) (Add your LinkedIn profile link)
-- Twitter: [@PantheonDigital](#) (Add your Twitter profile link)
+- LinkedIn: [Pantheon Digital LinkedIn](https://www.linkedin.com/company/pantheon-digitals/)
+- Twitter: [@PantheonDigital](https://twitter.com/PantheonDigi)
 
 ## Contributing
 
-We're always on the lookout for enthusiastic contributors to help us grow and improve our open-source projects. If you're interested in contributing, please read our [CONTRIBUTING.md](#) file for more information on how to get started.
+We're always on the lookout for enthusiastic contributors to help us grow and improve our open-source projects. If you're interested in contributing, please read our [CONTRIBUTING.md](https://pantheondigitals.com/) file for more information on how to get started.
 
 Thank you for visiting our GitHub profile. We're excited to share our journey with you and explore the endless possibilities the digital world has to offer!
 
