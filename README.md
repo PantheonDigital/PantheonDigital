@@ -10,12 +10,6 @@ Pantheon Digital is a leading technology solutions provider specializing in a wi
 
 Visit our website: [Pantheon Digital](https://pantheondigitals.com/)
 
-## Our Projects
-
-- **Project Name 1**: Description of Project 1. [View Project](#)
-- **Project Name 2**: Description of Project 2. [View Project](#)
-- **Project Name 3**: Description of Project 3. [View Project](#)
-
 ## Connect With Us
 
 We'd love to hear from you! Whether you're interested in collaborating on a project or just want to say hi, feel free to reach out.
